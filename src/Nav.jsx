@@ -20,8 +20,8 @@ export default function Navigation() {
               id="basic-nav-dropdown"
               className="nav-dropdown"
             >
-              <NavDropdown.Item href="/vegan">Vegan</NavDropdown.Item>
-              <NavDropdown.Item href="/veganFriendly">
+              <NavDropdown.Item href="/Vegan">Vegan</NavDropdown.Item>
+              <NavDropdown.Item href="/VeganFriendly">
                 Vegan-Friendly
               </NavDropdown.Item>
             </NavDropdown>
