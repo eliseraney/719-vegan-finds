@@ -1,9 +1,11 @@
 import React from "react";
+import Footer from "../Footer";
 import Restaurant from "../Restaurant";
 
 export default function Vegan() {
   return (
-    <div>
+    <div className="Vegan">
+      <h1>Vegan</h1>
       <Restaurant
         restaurantName="Burrowing Owl"
         street="1791 S 8th St, Colorado Springs"
@@ -22,6 +24,7 @@ export default function Vegan() {
         cityZip="Colorado Springs, CO 80918"
         phoneNumber="(719) 694-9331"
       />
+      <Footer />
     </div>
   );
 }

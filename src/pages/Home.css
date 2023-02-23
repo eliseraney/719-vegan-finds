@@ -1,0 +1,22 @@
+.Home header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/images/garden-of-the-gods.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 210px;
+}
+
+.Home header h1 {
+  font-weight: 700;
+  font-size: 75px;
+  letter-spacing: 5px;
+  line-height: 1.5;
+  color: white;
+}
+
+.Home iframe {
+  display: block;
+  margin: 50px auto;
+}

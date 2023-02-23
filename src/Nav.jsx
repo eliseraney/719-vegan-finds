@@ -8,13 +8,13 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 
 export default function Navigation() {
   return (
-    <Navbar className="Navbar" expand="lg">
+    <Navbar className="Nav" expand="lg">
       <Container>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto nav-link">
-            <Nav.Link href="/App">Home</Nav.Link>
-            <Nav.Link href="/about">About</Nav.Link>
+            <Nav.Link href="/Home">Home</Nav.Link>
+            <Nav.Link href="/About">About</Nav.Link>
             <NavDropdown
               title="Restaurants"
               id="basic-nav-dropdown"
@@ -25,6 +25,7 @@ export default function Navigation() {
                 Vegan-Friendly
               </NavDropdown.Item>
             </NavDropdown>
+            <Nav.Link href="/Events">Events</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
