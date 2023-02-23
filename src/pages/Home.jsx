@@ -5,7 +5,7 @@ import "./Home.css";
 export default function Home() {
   return (
     <div className="Home">
-      <header>
+      <header className="fluid">
         <h1>719 Vegan Finds</h1>
       </header>
       <iframe
