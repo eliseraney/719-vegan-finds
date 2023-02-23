@@ -13,19 +13,19 @@ export default function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto nav-link">
-            <Nav.Link href="/Home">Home</Nav.Link>
-            <Nav.Link href="/About">About</Nav.Link>
+            <Nav.Link href="./pages/Home">Home</Nav.Link>
+            <Nav.Link href="./pages/About">About</Nav.Link>
             <NavDropdown
               title="Restaurants"
               id="basic-nav-dropdown"
               className="nav-dropdown"
             >
-              <NavDropdown.Item href="/Vegan">Vegan</NavDropdown.Item>
-              <NavDropdown.Item href="/VeganFriendly">
+              <NavDropdown.Item href="./pages/Vegan">Vegan</NavDropdown.Item>
+              <NavDropdown.Item href="./pages/VeganFriendly">
                 Vegan-Friendly
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="/Events">Events</Nav.Link>
+            <Nav.Link href="./pages/Events">Events</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
