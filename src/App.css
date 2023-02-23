@@ -1,0 +1,44 @@
+:root {
+  --primary-color: #71ab90;
+  --secondary-color: #ec6171;
+  --third-color: #fec268;
+  --fourth-color: #ccd487;
+  --fifth-color: #5c4485;
+}
+
+body {
+  background-color: var(--primary-color);
+  font-family: "Hanken Grotesk", sans-serif;
+  color: white;
+}
+
+.App header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/images/garden-of-the-gods.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 210px;
+}
+
+.App .navbar {
+  background-color: var(--fifth-color);
+  color: white;
+}
+
+.App .nav-link {
+  color: white !important;
+}
+
+.App .nav-dropdown {
+  background-color: var(--fifth-color);
+}
+
+.App h1 {
+  font-weight: 700;
+  font-size: 75px;
+  letter-spacing: 5px;
+  line-height: 1.5;
+  color: white;
+}

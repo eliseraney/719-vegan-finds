@@ -1,0 +1,12 @@
+.Navbar {
+  background-color: var(--fifth-color);
+  color: white;
+}
+
+.Navbar .nav-link {
+  color: white !important;
+}
+
+.Navbar .nav-dropdown {
+  background-color: var(--fifth-color);
+}
