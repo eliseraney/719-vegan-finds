@@ -14,10 +14,10 @@ function App() {
         <Nav />
         <Routes>
           <Route exact path="/Home" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/events" element={<Events />} />
-          <Route path="/vegan" element={<Vegan />} />
-          <Route path="/veganFriendly" element={<VeganFriendly />} />
+          <Route path="/About" element={<About />} />
+          <Route path="/Events" element={<Events />} />
+          <Route path="/Vegan" element={<Vegan />} />
+          <Route path="/VeganFriendly" element={<VeganFriendly />} />
         </Routes>
       </Router>
     </div>
