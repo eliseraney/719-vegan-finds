@@ -6,3 +6,31 @@
 .Nav .nav-link {
   color: white !important;
 }
+
+.Nav .nav-link:hover {
+  color: var(--third-color) !important;
+}
+
+.Nav .dropdown-menu {
+  background-color: var(--primary-color);
+  border: none;
+}
+
+.Nav .dropdown-item {
+  color: white;
+}
+
+.Nav .dropdown-item:hover {
+  background-color: var(--third-color);
+  color: var(--primary-color);
+}
+
+.Nav .navbar-toggler {
+  border: none;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.Nav .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255,255,255, 0.3)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
