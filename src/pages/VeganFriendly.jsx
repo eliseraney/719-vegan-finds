@@ -17,7 +17,6 @@ export default function VeganFriendly() {
         restaurantName="AITE - Mediterranean Inspired Foods"
         street="514 S Tejon St"
         cityZip="Colorado Springs, CO 80903"
-        phoneNumber="-"
         menuLink="https://www.coatiuprise.com/_files/ugd/b622b5_b266346cd3da444088892fbc79ee6df6.pdf"
       />
       <Restaurant

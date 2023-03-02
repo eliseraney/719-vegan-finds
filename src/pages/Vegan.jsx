@@ -7,6 +7,11 @@ export default function Vegan() {
     <div className="Vegan">
       <h1>Vegan</h1>
       <Restaurant
+        restaurantName="Birchwood Bakehouse"
+        street="Found at The Burrowing Owl & Fern's Diner & Drinkery"
+        menuLink="https://birchwoodbakehouse.com/menu"
+      />
+      <Restaurant
         restaurantName="Burrowing Owl"
         street="1791 S 8th St, Colorado Springs"
         cityZip="Colorado Springs, CO 80905"
@@ -29,9 +34,7 @@ export default function Vegan() {
       />
       <Restaurant
         restaurantName="Wildflour Bakehouse"
-        street="Delivery"
-        cityZip="Only"
-        phoneNumber="-"
+        street="Delivery Only"
         menuLink="https://wildflour-bakehouse.com/"
       />
       <Footer />
