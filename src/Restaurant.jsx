@@ -12,6 +12,11 @@ export default function Restaurant(props) {
           {props.cityZip}
         </p>
         <p>{props.phoneNumber}</p>
+        <p>
+          <a href={props.menuLink} target="_blank" rel="noreferrer">
+            Menu
+          </a>
+        </p>
       </section>
     </div>
   );
