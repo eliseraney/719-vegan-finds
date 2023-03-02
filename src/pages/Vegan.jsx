@@ -8,7 +8,8 @@ export default function Vegan() {
       <h1>Vegan</h1>
       <Restaurant
         restaurantName="Birchwood Bakehouse"
-        street="Found at The Burrowing Owl & Fern's Diner & Drinkery"
+        street="Custom orders"
+        cityZip="& found at Burrowing Owl & Fern's Diner & Drinkery"
         menuLink="https://birchwoodbakehouse.com/menu"
       />
       <Restaurant
