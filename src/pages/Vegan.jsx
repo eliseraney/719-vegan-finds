@@ -9,7 +9,7 @@ export default function Vegan() {
       <Restaurant
         restaurantName="Birchwood Bakehouse"
         street="Custom orders"
-        cityZip="& found at Burrowing Owl & Fern's Diner & Drinkery"
+        cityZip="or found at Burrowing Owl and Fern's Diner & Drinkery"
         menuLink="https://birchwoodbakehouse.com/menu"
       />
       <Restaurant
