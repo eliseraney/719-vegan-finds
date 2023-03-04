@@ -8,9 +8,8 @@ export default function Home() {
       <header className="fluid">
         <h1>
           <span>Welcome to</span>
-          <br />
-          <div>719 Vegan Finds</div>
         </h1>
+        <img src="/images/adjusted-logo.png" alt="" />
       </header>
       <section className="about">
         <p>
