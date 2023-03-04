@@ -119,6 +119,14 @@ export default function VeganFriendly() {
         menuLink="https://www.poorrichardsrestaurant.com/menus/"
       />
       <Restaurant
+        restaurantName="Rasta Pasta"
+        street="405 N Tejon St"
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 481-6888"
+        phoneLink="tel:7194816888"
+        menuLink="https://realrastapasta.com/menu/"
+      />
+      <Restaurant
         restaurantName="Salad or Bust"
         street="1604 S Cascade Ave"
         cityZip="Colorado Springs, CO 80905"
