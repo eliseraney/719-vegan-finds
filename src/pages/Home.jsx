@@ -61,10 +61,13 @@ export default function Home() {
 
       <h5>
         We rely heavily on the community to assist in submitting feedback, new
-        options and information to help us keep the page up to date! Please{" "}
+        options and information to help us keep the page up to date!
+        <br />
+        Please{" "}
         <a href="./Contact" className="contactUs">
-          contact us
+          contact us{" "}
         </a>
+        if you have any suggestions.
       </h5>
       <Footer />
     </div>

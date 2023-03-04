@@ -9,7 +9,12 @@ export default function Contact() {
       <section>
         <h5>Email</h5>
         <p>
-          <a href="mailto: 719veganfinds@gmail.com" className="emailLink">
+          <a
+            href="mailto: 719veganfinds@gmail.com"
+            className="emailLink"
+            target="_blank"
+            rel="noreferrer"
+          >
             719veganfinds@gmail.com
           </a>
         </p>
@@ -18,6 +23,8 @@ export default function Contact() {
           <a
             href="https://www.instagram.com/719veganfinds"
             className="instaLink"
+            target="_blank"
+            rel="noreferrer"
           >
             @719veganfinds
           </a>

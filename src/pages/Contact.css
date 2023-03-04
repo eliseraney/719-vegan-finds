@@ -3,6 +3,7 @@
   margin-top: 60px;
 }
 
-.Contact .emailLink {
+.Contact .emailLink,
+.instaLink {
   color: white;
 }
