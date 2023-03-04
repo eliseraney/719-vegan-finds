@@ -11,6 +11,7 @@ export default function VeganFriendly() {
         street="26 Manitou Ave"
         cityZip="Manitou Springs, CO 80829"
         phoneNumber="(719) 685-1430"
+        phoneLink="tel:7196851430"
         menuLink="https://adamsmountaincafe.com/menu/"
       />
       <Restaurant
@@ -24,6 +25,7 @@ export default function VeganFriendly() {
         street="36 E Bijou St"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 630-8121"
+        phoneLink="tel:7196308121"
         menuLink="https://bambinosurbanpizzeria.com/menu/"
       />
       <Restaurant
@@ -31,6 +33,7 @@ export default function VeganFriendly() {
         street="2428 W Colorado Ave"
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 471-0789"
+        phoneLink="tel:7194710789"
         menuLink="https://www.carneliancoffeeco.com/"
       />
       <Restaurant
@@ -38,6 +41,7 @@ export default function VeganFriendly() {
         street="6050 N Carefree Cir"
         cityZip="Colorado Springs, CO 80922"
         phoneNumber="(719) 358-7865"
+        phoneLink="tel:7193587865"
         menuLink="https://www.fala-filo.com/menu"
       />
       <Restaurant
@@ -45,6 +49,7 @@ export default function VeganFriendly() {
         street="9697 Prominent Point Suite #156"
         cityZip="Colorado Springs, CO 80924"
         phoneNumber="(719) 424-7929"
+        phoneLink="tel:7194247929"
         menuLink="https://www.javalato-coffee-gelato.com/menu/"
       />
       <Restaurant
@@ -52,6 +57,7 @@ export default function VeganFriendly() {
         street="115 S 25th St"
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 473-0877"
+        phoneLink="tel:7194730877"
         menuLink="https://www.monsestasteofelsalvador.online/new-page-4"
       />
       <Restaurant
@@ -59,6 +65,7 @@ export default function VeganFriendly() {
         street="1625 W Uintah St"
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 633-4139"
+        phoneLink="tel:7196334139"
         menuLink="http://www.mountainmamanaturalfoods.com/menu"
       />
       <Restaurant
@@ -66,6 +73,7 @@ export default function VeganFriendly() {
         street="2316 W Colorado Ave"
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 308-2173"
+        phoneLink="tel:7193082173"
         menuLink="https://occbrewing.com/menu/"
       />
       <Restaurant
@@ -73,6 +81,7 @@ export default function VeganFriendly() {
         street="1604 S Cascade Ave"
         cityZip="Colorado Springs, CO 80905"
         phoneNumber="(719) 368-6117"
+        phoneLink="tel:7193686117"
         menuLink="https://saladorbust.com/ivywild-1"
       />
       <Restaurant
@@ -80,6 +89,7 @@ export default function VeganFriendly() {
         street="8 E Bijou St"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 434-2313"
+        phoneLink="tel:7194342313"
         menuLink="https://saladorbust.com/ivywild-1"
       />
       <Restaurant
@@ -87,6 +97,7 @@ export default function VeganFriendly() {
         street="1005 W Colorado Ave"
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 896-5577"
+        phoneLink="tel:7198965577"
         menuLink="https://sherpagarden.com/menu/"
       />
       <Restaurant
@@ -94,6 +105,7 @@ export default function VeganFriendly() {
         street="315 E Pikes Peak Ave Suite 100"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 425-5912"
+        phoneLink="tel:7194255912"
         menuLink="https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63ed72b0b79cfa0e18d998e5/1676505776963/The+Well_Vertical+Menus_Sivar_V3.pdf"
       />
       <Restaurant
@@ -101,6 +113,7 @@ export default function VeganFriendly() {
         street="1725 Briargate Blvd"
         cityZip="Colorado Springs, CO 80920"
         phoneNumber="(719) 598-7843"
+        phoneLink="tel:7195987843"
         menuLink="https://thaimintco.smiledining.com//?2023020201"
       />
       <Restaurant
@@ -108,6 +121,7 @@ export default function VeganFriendly() {
         street="526 S Tejon St"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 635-0277"
+        phoneLink="tel:7196350277"
         menuLink="http://www.theexchangeontejon.com/menu.html"
       />
       <Restaurant
@@ -115,6 +129,7 @@ export default function VeganFriendly() {
         street="315 E Pikes Peak Ave Suite 100"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 401-3726"
+        phoneLink="tel:7194013726"
         menuLink="https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63e103940ed01046f9ecf607/1675690912326/The+Well_Vertical+Menus_Tossed_V1.pdf"
       />
       <Restaurant
@@ -122,6 +137,7 @@ export default function VeganFriendly() {
         street="1025 S Sierra Madre St"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 473-7832"
+        phoneLink="tel:7194737832"
         menuLink="https://www.urbansteam.com/our-menu"
       />
       <Restaurant
@@ -129,6 +145,7 @@ export default function VeganFriendly() {
         street="2611 W Colorado Ave Suite 100"
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 375-5727"
+        phoneLink="tel:7193755727"
         menuLink="https://www.westsidecantina.com/menu"
       />
       <Footer />

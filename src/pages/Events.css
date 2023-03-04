@@ -1,0 +1,12 @@
+.Events .eventsCalendar {
+  display: block;
+  margin: 0 auto;
+  margin-top: 60px;
+  border-radius: 3px;
+}
+
+@media (max-width: 768px) {
+  .Events .eventsCalendar {
+    width: 100%;
+  }
+}

@@ -17,6 +17,7 @@ export default function Vegan() {
         street="1791 S 8th St, Colorado Springs"
         cityZip="Colorado Springs, CO 80905"
         phoneNumber="(719) 434-3864"
+        phoneLink="tel:7194343864"
         menuLink="https://www.burrowingowllounge.com/"
       />
       <Restaurant
@@ -24,6 +25,7 @@ export default function Vegan() {
         street="4645 Fountain Ave"
         cityZip="Cascade, CO 80809"
         phoneNumber="(719) 424-7667"
+        phoneLink="tel:7194247667"
         menuLink="https://www.fernsdiner.com/food"
       />
       <Restaurant
@@ -31,6 +33,7 @@ export default function Vegan() {
         street="3220 Austin Bluffs Pkwy"
         cityZip="Colorado Springs, CO 80918"
         phoneNumber="(719) 694-9331"
+        phoneLink="tel:7196949331"
         menuLink="https://santanasvegangrill.com/"
       />
       <Restaurant

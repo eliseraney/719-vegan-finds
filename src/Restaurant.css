@@ -3,7 +3,11 @@
   margin-top: 60px;
 }
 
-.Restaurant a {
+.Restaurant a.phoneLink {
+  color: white;
+}
+
+.Restaurant a.menuLink {
   color: var(--primary-color);
   font-weight: bold;
 }
