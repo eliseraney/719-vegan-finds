@@ -9,7 +9,7 @@ export default function Home() {
         <h1>
           <span>Welcome to</span>
           <br />
-          719 Vegan Finds
+          <div>719 Vegan Finds</div>
         </h1>
       </header>
       <section className="about">
