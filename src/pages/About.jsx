@@ -55,9 +55,9 @@ export default function About() {
             became less about the health benefits and more about the animals
             when she learned about the atrocities committed by the animal
             industry. Elise moved to Colorado Springs from Austin in 2016. Since
-            then, she has run a successful dog walking and pet sitting. In her
-            free time, she enjoys hiking, gaming on her PC, and looking for
-            delicious vegan food in the Springs.
+            then, she has run a successful dog walking and pet sitting business.
+            In her free time, she enjoys hiking, gaming on her PC, and looking
+            for delicious vegan food in the Springs.
           </p>
         </div>
       </section>
