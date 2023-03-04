@@ -29,12 +29,27 @@ export default function Vegan() {
         menuLink="https://www.fernsdiner.com/food"
       />
       <Restaurant
+        restaurantName="Noice Foods"
+        street="Pickup/Delivery only"
+        phoneNumber="(719) 244-1705"
+        phoneLink="tel:7192441705"
+        menuLink="https://noicefoods.com/"
+      />
+      <Restaurant
         restaurantName="Santana's Vegan Grill"
         street="3220 Austin Bluffs Pkwy"
         cityZip="Colorado Springs, CO 80918"
         phoneNumber="(719) 694-9331"
         phoneLink="tel:7196949331"
         menuLink="https://santanasvegangrill.com/"
+      />
+      <Restaurant
+        restaurantName="Sweet Elizabeth's Organics"
+        street="1625 W Uintah St K"
+        cityZip="Colorado Springs, CO 80904"
+        phoneNumber="(719) 358-7659"
+        phoneLink="tel:7193587659"
+        menuLink="https://www.sweetelizabethsorganics.com/bakery-cafe"
       />
       <Restaurant
         restaurantName="Wildflour Bakehouse"

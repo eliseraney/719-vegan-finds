@@ -66,7 +66,17 @@ export default function VeganFriendly() {
         cityZip="Colorado Springs, CO 80904"
         phoneNumber="(719) 633-4139"
         phoneLink="tel:7196334139"
-        menuLink="http://www.mountainmamanaturalfoods.com/menu"
+        menuLi
+        nk="http://www.mountainmamanaturalfoods.com/menu"
+      />
+      <Restaurant
+        restaurantName="Mountainara Cucina Italiana"
+        street="727 Gold Hill Place South"
+        cityZip="Woodland Park, CO 80863"
+        phoneNumber="(719) 687-8803"
+        phoneLink="tel:7196878803"
+        menuLi
+        nk="https://mountainara.com/"
       />
       <Restaurant
         restaurantName="OCC Brewing"
