@@ -7,3 +7,8 @@
 .instaLink {
   color: white;
 }
+
+.Contact .emailLink:hover,
+.instaLink:hover {
+  color: white;
+}
