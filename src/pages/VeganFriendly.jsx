@@ -37,6 +37,30 @@ export default function VeganFriendly() {
         menuLink="https://www.carneliancoffeeco.com/"
       />
       <Restaurant
+        restaurantName="Cerberus Brewing Company"
+        street="702 W Colorado Ave"
+        cityZip="Colorado Springs, CO 80905"
+        phoneNumber="(719) 636-2337"
+        phoneLink="tel:7196362337"
+        menuLink="http://www.cerberusbrewingco.com/food.html"
+      />
+      <Restaurant
+        restaurantName="Chaang Thai"
+        street="7525 N Academy Blvd"
+        cityZip="Colorado Springs, CO 80920"
+        phoneNumber="(719) 594-4471"
+        phoneLink="tel:7195944471"
+        menuLink="https://www.chaangthaicos.com/_files/ugd/4c2c87_3cbb4554d28447478f00e1e376159963.pdf"
+      />
+      <Restaurant
+        restaurantName="Elephant Thai"
+        street="3408 N Academy Blvd"
+        cityZip="Colorado Springs, CO 80917"
+        phoneNumber="(719) 597-1175"
+        phoneLink="tel:7195971175"
+        menuLink="https://www.elephantthaicos.com/_files/ugd/4c2c87_9a77a313efdb40d1b428b73e99f9d829.pdf"
+      />
+      <Restaurant
         restaurantName="Fala-Filo"
         street="6050 N Carefree Cir"
         cityZip="Colorado Springs, CO 80922"
@@ -85,6 +109,14 @@ export default function VeganFriendly() {
         phoneNumber="(719) 308-2173"
         phoneLink="tel:7193082173"
         menuLink="https://occbrewing.com/menu/"
+      />
+      <Restaurant
+        restaurantName="Poor Richard's Restaurant"
+        street="324 1/2 N Tejon St"
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 578-5549"
+        phoneLink="tel:7195785549"
+        menuLink="https://www.poorrichardsrestaurant.com/menus/"
       />
       <Restaurant
         restaurantName="Salad or Bust"
