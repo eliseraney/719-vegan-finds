@@ -14,19 +14,19 @@ export default function Home() {
       </header>
       <section className="about">
         <p>
-          A plant based directory of vegan and vegan-friendly restaurant finds
-          in the Colorado Springs area!
+          A plant-based directory of vegan and vegan-friendly restaurant finds
+          in the Colorado Springs area created by two plant-based 719 locals who
+          are constantly on the hunt for delicious vegan food!
           <br />
           <br />
-          Created by two plant-based 719 locals who are constantly on the hunt
-          for delicious vegan food. This is an inclusive page that invites all
-          individuals who are on the plant-based path or are curious about the
-          plant-based lifestlye to find animal free alternatives while also
-          being able to support the local restaurants scene.
+          This is an inclusive page that invites all individuals who are on the
+          plant-based path or are curious about the plant-based lifestlye to
+          find animal free alternatives while also being able to support the
+          local restaurant scene.
           <br />
           <br />
           We are hoping to make these choices easier to help individuals pick
-          the plant powered path as much as possible and encourage our local
+          the plant-powered path as much as possible and encourage our local
           restaurants to offer more vegan options on their menus.
         </p>
       </section>
