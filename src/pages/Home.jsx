@@ -21,7 +21,7 @@ export default function Home() {
           <br />
           This is an inclusive page that invites all individuals who are on the
           plant-based path or are curious about the plant-based lifestyle to
-          find animal free alternatives while also being able to support the
+          find animal-free alternatives while also being able to support the
           local restaurant scene.
           <br />
           <br />
