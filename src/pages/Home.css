@@ -1,6 +1,6 @@
 .Home header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/garden-of-the-gods.jpg");
+    url("/public/images/garden-of-the-gods.jpg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
@@ -9,11 +9,14 @@
 
 .Home header h1 {
   text-align: center;
-  font-weight: 700;
   font-size: 75px;
   letter-spacing: 5px;
   line-height: 1.5;
   color: white;
+}
+
+.Home header h1 span {
+  font-weight: lighter;
 }
 
 .Home iframe {
@@ -22,13 +25,35 @@
 }
 
 .Home h5 {
+  display: block;
+  margin: 0 auto;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 60px;
+  width: 50%;
+}
+
+.Home .about {
+  background-color: var(--primary-color);
+
+  text-align: center;
+  font-size: 26px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.Home .about p {
+  display: 0 auto;
+  margin: 0 auto;
+  width: 80%;
 }
 
 .Home .legend {
   text-align: center;
   font-size: 12px;
+}
+
+.Home .carrot {
+  width: 20px;
 }
 
 .Home .contactUs {

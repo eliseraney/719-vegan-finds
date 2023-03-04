@@ -26,6 +26,7 @@ export default function Navigation() {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="./Events">Events</Nav.Link>
+            <Nav.Link href="./OurFaves">Our Faves</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>

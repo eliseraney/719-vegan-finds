@@ -133,6 +133,14 @@ export default function VeganFriendly() {
         menuLink="https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63e103940ed01046f9ecf607/1675690912326/The+Well_Vertical+Menus_Tossed_V1.pdf"
       />
       <Restaurant
+        restaurantName="Trinity Brewing"
+        street="1466 Garden of the Gods Rd"
+        cityZip="Colorado Springs, CO 80907"
+        phoneNumber="(719) 497-2739"
+        phoneLink="tel:7194972739"
+        menuLink="https://www.trinitybrew.com/food"
+      />
+      <Restaurant
         restaurantName="Urban Steam American Bistro"
         street="1025 S Sierra Madre St"
         cityZip="Colorado Springs, CO 80903"

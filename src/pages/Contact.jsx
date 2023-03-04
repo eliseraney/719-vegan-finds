@@ -13,6 +13,15 @@ export default function Contact() {
             719veganfinds@gmail.com
           </a>
         </p>
+        <h5>Instagram</h5>
+        <p>
+          <a
+            href="https://www.instagram.com/719veganfinds"
+            className="instaLink"
+          >
+            @719veganfinds
+          </a>
+        </p>
       </section>
       <Footer />
     </div>

@@ -7,6 +7,7 @@ import Contact from "./pages/Contact";
 import Events from "./pages/Events";
 import Vegan from "./pages/Vegan";
 import VeganFriendly from "./pages/VeganFriendly";
+import OurFaves from "./pages/OurFaves";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/About" element={<About />} />
           <Route path="/Contact" element={<Contact />} />
           <Route path="/Events" element={<Events />} />
+          <Route path="/OurFaves" element={<OurFaves />} />
           <Route path="/Vegan" element={<Vegan />} />
           <Route path="/VeganFriendly" element={<VeganFriendly />} />
         </Routes>
