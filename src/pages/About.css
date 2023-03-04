@@ -10,6 +10,7 @@
 .About h3 {
   color: var(--primary-color);
   font-weight: bold;
+  font-size: 32px;
   text-decoration: none;
   margin-top: 30px;
 }
@@ -17,6 +18,17 @@
 .About .aboutPhoto {
   display: flex;
   aspect-ratio: 4/3;
+}
+
+.About .title {
+  display: block;
+  margin: 0 auto;
+  font-weight: bold;
+  color: var(--primary-color);
+  background-color: white;
+  border-radius: 5px;
+  width: fit-content;
+  padding: 5px;
 }
 
 .About .paragraph {
