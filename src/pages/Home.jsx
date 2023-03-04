@@ -20,7 +20,7 @@ export default function Home() {
           <br />
           <br />
           This is an inclusive page that invites all individuals who are on the
-          plant-based path or are curious about the plant-based lifestlye to
+          plant-based path or are curious about the plant-based lifestyle to
           find animal free alternatives while also being able to support the
           local restaurant scene.
           <br />
@@ -39,7 +39,7 @@ export default function Home() {
       <section className="legend">
         <div>
           <img
-            src="/images/carrot-purple.png"
+            src="/images/carrot-pink.png"
             alt="Purple carrot"
             className="carrot"
           />
@@ -47,7 +47,7 @@ export default function Home() {
         </div>
         <div>
           <img
-            src="/images/carrot-orange.png"
+            src="/images/carrot-purple.png"
             alt="Orange Carrot"
             className="carrot"
           />

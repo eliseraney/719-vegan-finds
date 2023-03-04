@@ -28,15 +28,15 @@
   display: block;
   margin: 0 auto;
   text-align: center;
+  font-size: 18px;
   margin-top: 60px;
-  width: 50%;
+  width: 75%;
 }
 
 .Home .about {
   background-color: var(--primary-color);
-
   text-align: center;
-  font-size: 26px;
+  font-size: 22px;
   padding-top: 100px;
   padding-bottom: 100px;
 }
@@ -67,10 +67,18 @@
   }
 
   .Home header h1 {
-    font-size: 60px;
+    font-size: 48px;
   }
 
   .Home iframe {
     max-width: 100%;
+  }
+
+  .Home h5 {
+    font-size: 14px;
+  }
+
+  .Home .about {
+    font-size: 18px;
   }
 }
