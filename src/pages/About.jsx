@@ -20,7 +20,7 @@ export default function About() {
             />
           </div>
           <h3>Morgan</h3>
-          <p>Data Collection & Management</p>
+          <p>Co-founder, Data Collection & Management</p>
           <p className="paragraph">
             Morgan has been in Colorado Springs since 2013 and started the
             transition to a plant-based lifestyle in 2020. She had already
@@ -47,7 +47,7 @@ export default function About() {
             />
           </div>
           <h3>Elise</h3>
-          <p>Website Design & Development</p>
+          <p>Co-founder, Website Design & Development</p>
           <p className="paragraph">
             Elise transitioned to the vegan lifestlye after watching The Engine
             2 Diet in 2012 (although it took her a few tries to eliminate
