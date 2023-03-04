@@ -33,3 +33,13 @@
   text-align: center;
   padding: 10px;
 }
+
+@media (max-width: 768px) {
+  .About .aboutGrid {
+    display: block;
+  }
+
+  .About .paragraph {
+    margin-bottom: 50px;
+  }
+}
