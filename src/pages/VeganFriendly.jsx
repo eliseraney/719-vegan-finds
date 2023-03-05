@@ -202,8 +202,6 @@ export default function VeganFriendly() {
         restaurantName="Tossed @ The Well"
         street="315 E Pikes Peak Ave Suite 100"
         cityZip="Colorado Springs, CO 80903"
-        phoneNumber="(719) 401-3726"
-        phoneLink="tel:7194013726"
         menuLink="https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63e103940ed01046f9ecf607/1675690912326/The+Well_Vertical+Menus_Tossed_V1.pdf"
       />
       <Restaurant
@@ -221,6 +219,14 @@ export default function VeganFriendly() {
         phoneNumber="(719) 473-7832"
         phoneLink="tel:7194737832"
         menuLink="https://www.urbansteam.com/our-menu"
+      />
+      <Restaurant
+        restaurantName="The UTE Restaurant"
+        street="21 N Nevada Ave"
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 634-0003"
+        phoneLink="tel:7196340003"
+        menuLink="https://theuterestaurant.com/food-menu/"
       />
       <Restaurant
         restaurantName="Westside Cantina"
