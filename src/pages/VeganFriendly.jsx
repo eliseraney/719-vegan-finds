@@ -29,6 +29,14 @@ export default function VeganFriendly() {
         menuLink="https://bambinosurbanpizzeria.com/menu/"
       />
       <Restaurant
+        restaurantName="Bunzy's and Booze"
+        street="1919 E Boulder St"
+        cityZip="Colorado Springs, CO 80909"
+        phoneNumber="(719) 203-5522"
+        phoneLink="tel:7192035522"
+        menuLink="https://bunzysandbooze.com/menu"
+      />
+      <Restaurant
         restaurantName="Carnelian Coffee Co"
         street="2428 W Colorado Ave"
         cityZip="Colorado Springs, CO 80904"
@@ -165,6 +173,14 @@ export default function VeganFriendly() {
         phoneNumber="(719) 598-7843"
         phoneLink="tel:7195987843"
         menuLink="https://thaimintco.smiledining.com//?2023020201"
+      />
+      <Restaurant
+        restaurantName="Thai Taste Cuisine"
+        street="5069 N Academy Blvd"
+        cityZip="Colorado Springs, CO 80918"
+        phoneNumber="(719) 203-6567"
+        phoneLink="tel:7192036567"
+        menuLink="https://thaitastecuisineco.smiledining.com//?2023020201"
       />
       <Restaurant
         restaurantName="The Exchange On Tejon"
