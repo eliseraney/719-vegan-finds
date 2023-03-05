@@ -38,7 +38,7 @@ export default function Home() {
       <section className="legend">
         <div>
           <img
-            src="/images/carrot-pink.png"
+            src="/images/carrot-dark-orange.png"
             alt="Purple carrot"
             className="carrot"
           />
