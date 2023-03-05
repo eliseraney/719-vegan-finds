@@ -119,6 +119,14 @@ export default function VeganFriendly() {
         menuLink="https://occbrewing.com/menu/"
       />
       <Restaurant
+        restaurantName="Ola Juice Bar"
+        street="27 E Kiowa St"
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 633-3111"
+        phoneLink="tel:7196333111"
+        menuLink="https://www.olajuicebar.com/menu"
+      />
+      <Restaurant
         restaurantName="Poor Richard's Restaurant"
         street="324 1/2 N Tejon St"
         cityZip="Colorado Springs, CO 80903"
