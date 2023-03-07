@@ -21,12 +21,33 @@ export default function VeganFriendly() {
         menuLink="https://www.coatiuprise.com/_files/ugd/b622b5_b266346cd3da444088892fbc79ee6df6.pdf"
       />
       <Restaurant
+        restaurantName="Alternative Whisk"
+        street="Pickup Only"
+        cityZip="Monument, CO"
+        phoneNumber="(703) 309-6821"
+        phoneLink="tel:7033096821"
+        menuLink="https://www.alternativewhisk.com/"
+      />
+      <Restaurant
         restaurantName="Bambino's Urban Pizzeria"
         street="36 E Bijou St"
         cityZip="Colorado Springs, CO 80903"
         phoneNumber="(719) 630-8121"
         phoneLink="tel:7196308121"
         menuLink="https://bambinosurbanpizzeria.com/menu/"
+      />
+      <Restaurant
+        restaurantName="Baked by Bros."
+        street="Delivery Only"
+        menuLink="https://www.bakedbybros.com/menu"
+      />
+      <Restaurant
+        restaurantName="Benne's Sweet Treats"
+        street="6620 Delmonico Dr., Suite B"
+        cityZip="Colorado Springs, CO 80919"
+        phoneNumber="(719) 315-5237"
+        phoneLink="tel:7193155237"
+        menuLink="https://www.bennessweettreats.com/"
       />
       <Restaurant
         restaurantName="Bunzy's and Booze"
@@ -83,6 +104,14 @@ export default function VeganFriendly() {
         phoneNumber="(719) 424-7929"
         phoneLink="tel:7194247929"
         menuLink="https://www.javalato-coffee-gelato.com/menu/"
+      />
+      <Restaurant
+        restaurantName="Kelley's Spiedie Shop"
+        street="323 N Tejon St."
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 631-9006"
+        phoneLink="tel:7196319006"
+        menuLink="https://www.facebook.com/photo/?fbid=678089980986587&set=pb.100063567734207.-2207520000."
       />
       <Restaurant
         restaurantName="Monse's Pupuseria"
@@ -173,6 +202,22 @@ export default function VeganFriendly() {
         phoneNumber="(719) 425-5912"
         phoneLink="tel:7194255912"
         menuLink="https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63ed72b0b79cfa0e18d998e5/1676505776963/The+Well_Vertical+Menus_Sivar_V3.pdf"
+      />
+      <Restaurant
+        restaurantName="Slice 420 (East Location)"
+        street="3725 Oro Blanco Dr"
+        cityZip="Colorado Springs, CO 80917"
+        phoneNumber="(719) 375-0393"
+        phoneLink="tel:7193750393"
+        menuLink="https://www.slice420.com/menu"
+      />
+      <Restaurant
+        restaurantName="Slice 420 (West Location)"
+        street="2501 W Colorado Ave #108"
+        cityZip="Colorado Springs, CO 80904"
+        phoneNumber="(719) 368-6977"
+        phoneLink="tel:7193686977"
+        menuLink="https://www.slice420.com/menu"
       />
       <Restaurant
         restaurantName="Thai Mint Restaurant"

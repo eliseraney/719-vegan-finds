@@ -13,6 +13,12 @@ export default function Vegan() {
         menuLink="https://birchwoodbakehouse.com/menu"
       />
       <Restaurant
+        restaurantName="Blossom.Baking"
+        street="9233 Chieftan Dr (Pickup & Delivery only)"
+        cityZip="Colorado Springs, CO 80925"
+        menuLink="https://www.blossbaking.com/"
+      />
+      <Restaurant
         restaurantName="Burrowing Owl"
         street="1791 S 8th St, Colorado Springs"
         cityZip="Colorado Springs, CO 80905"
@@ -30,7 +36,8 @@ export default function Vegan() {
       />
       <Restaurant
         restaurantName="Noice Foods"
-        street="Pickup/Delivery only"
+        street="515 Manitou Ave (Pickup & Delivery only)"
+        cityZip="Colorado Springs, CO 80829"
         phoneNumber="(719) 244-1705"
         phoneLink="tel:7192441705"
         menuLink="https://noicefoods.com/"
