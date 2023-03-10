@@ -16,7 +16,7 @@ export default function Navigation() {
             <Nav.Link href="./Home">Home</Nav.Link>
             <Nav.Link href="./About">About</Nav.Link>
             <NavDropdown
-              title="Restaurants"
+              title="Food"
               id="basic-nav-dropdown"
               className="nav-dropdown"
             >

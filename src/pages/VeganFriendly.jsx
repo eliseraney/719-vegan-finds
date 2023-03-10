@@ -90,6 +90,14 @@ export default function VeganFriendly() {
         menuLink="https://www.elephantthaicos.com/_files/ugd/4c2c87_9a77a313efdb40d1b428b73e99f9d829.pdf"
       />
       <Restaurant
+        restaurantName="The Exchange On Tejon"
+        street="526 S Tejon St"
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 635-0277"
+        phoneLink="tel:7196350277"
+        menuLink="http://www.theexchangeontejon.com/menu.html"
+      />
+      <Restaurant
         restaurantName="Fala-Filo"
         street="6050 N Carefree Cir"
         cityZip="Colorado Springs, CO 80922"
@@ -234,14 +242,6 @@ export default function VeganFriendly() {
         phoneNumber="(719) 203-6567"
         phoneLink="tel:7192036567"
         menuLink="https://thaitastecuisineco.smiledining.com//?2023020201"
-      />
-      <Restaurant
-        restaurantName="The Exchange On Tejon"
-        street="526 S Tejon St"
-        cityZip="Colorado Springs, CO 80903"
-        phoneNumber="(719) 635-0277"
-        phoneLink="tel:7196350277"
-        menuLink="http://www.theexchangeontejon.com/menu.html"
       />
       <Restaurant
         restaurantName="Tossed @ The Well"
