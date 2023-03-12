@@ -50,6 +50,14 @@ export default function VeganFriendly() {
         menuLink="https://www.bennessweettreats.com/"
       />
       <Restaurant
+        restaurantName="Bingo Burger"
+        street="132 N Tejon St"
+        cityZip="Colorado Springs, CO 80903"
+        phoneNumber="(719) 418-6223"
+        phoneLink="tel:7194186223"
+        menuLink="https://www.bingoburger.com/copy-of-cos-menu"
+      />
+      <Restaurant
         restaurantName="Bunzy's and Booze"
         street="1919 E Boulder St"
         cityZip="Colorado Springs, CO 80909"
