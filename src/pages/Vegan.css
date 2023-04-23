@@ -1,0 +1,24 @@
+.Vegan section {
+  text-align: center;
+  margin-top: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.Vegan h1 {
+  margin-bottom: 60px;
+}
+
+.Vegan a.phoneLink {
+  color: white;
+}
+
+.Vegan a.menuLink {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.Vegan .restaurants {
+  margin-bottom: 50px;
+  text-align: center;
+}

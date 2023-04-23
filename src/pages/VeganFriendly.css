@@ -1,0 +1,24 @@
+.VeganFriendly section {
+  text-align: center;
+  margin-top: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.VeganFriendly h1 {
+  margin-bottom: 60px;
+}
+
+.VeganFriendly a.phoneLink {
+  color: white;
+}
+
+.VeganFriendly a.menuLink {
+  color: var(--primary-color);
+  font-weight: bold;
+}
+
+.VeganFriendly .restaurants {
+  margin-bottom: 50px;
+  text-align: center;
+}
