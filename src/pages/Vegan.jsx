@@ -34,12 +34,25 @@ export default function Vegan() {
       menu: "https://www.fernsdiner.com/food",
     },
     {
+      name: "Green Machine Grill",
+      street: "Events Only",
+      phoneNumber: "(719) 649-3091",
+      phoneLink: "tel:7196493091",
+      menu: "https://www.greenmachinegrill.com/menu",
+    },
+    {
       name: "Noice Foods",
       street: "515 Manitou Ave (Pickup & Delivery only)",
       cityZip: "Manitou Springs, CO 80829",
       phoneNumber: "(719) 244-1705",
       phoneLink: "tel:7192441705",
       menu: "https://noicefoods.com/",
+    },
+    {
+      name: "Planted Cakery",
+      street: "1753 S 8th St (Pickup Only)",
+      cityZip: "Manitou Springs, CO 80905",
+      menu: "http://www.plantedcakery.com/menu",
     },
     {
       name: "Santana's Vegan Grill",
@@ -56,6 +69,11 @@ export default function Vegan() {
       phoneNumber: "(719) 358-7659",
       phoneLink: "tel:7193587659",
       menu: "https://www.sweetelizabethsorganics.com/bakery-cafe",
+    },
+    {
+      name: "The Wayward Onion",
+      street: "Pickup, Catering, & Events Only",
+      menu: "https://www.thewaywardonion.com/",
     },
     {
       name: "Wildflour Bakehouse",

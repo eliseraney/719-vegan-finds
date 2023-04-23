@@ -86,7 +86,7 @@ export default function VeganFriendly() {
       cityZip: "Colorado Springs, CO 80920",
       phoneNumber: "(719) 594-4471",
       phoneLink: "tel:7195944471",
-      menu: "https://www.chaangthaicos.com/_files/ugd/4c2c87_3cbb4554d28447478f00e1e376159963.pdf",
+      menu: "https://www.chaangthaicos.com/about",
     },
     {
       name: "Elephant Thai",
@@ -94,7 +94,7 @@ export default function VeganFriendly() {
       cityZip: "Colorado Springs, CO 80917",
       phoneNumber: "(719) 597-1175",
       phoneLink: "tel:7195971175",
-      menu: "https://www.elephantthaicos.com/_files/ugd/4c2c87_9a77a313efdb40d1b428b73e99f9d829.pdf",
+      menu: "https://www.elephantthaicos.com/menus",
     },
     {
       name: "The Exchange On Tejon",
@@ -113,6 +113,12 @@ export default function VeganFriendly() {
       menu: "https://www.fala-filo.com/menu",
     },
     {
+      name: "Ephemera",
+      street: "514 S Tejon St Suite 250a",
+      cityZip: "Colorado Springs, CO 80903",
+      menu: "https://www.ephemeradinners.com/",
+    },
+    {
       name: "Javalato Gelato & Cafe",
       street: "9697 Prominent Point Suite #156",
       cityZip: "Colorado Springs, CO 80924",
@@ -127,6 +133,14 @@ export default function VeganFriendly() {
       phoneNumber: "(719) 631-9006",
       phoneLink: "tel:7196319006",
       menu: "https://www.facebook.com/photo/?fbid=678089980986587&set=pb.100063567734207.-2207520000.",
+    },
+    {
+      name: "La'au's Taco Shop",
+      street: "830 N Tejon St STE 110",
+      cityZip: "Colorado Springs, CO 80903",
+      phoneNumber: "(719) 578-5228",
+      phoneLink: "tel:7195785228",
+      menu: "https://www.laaustacoshop.com/menu",
     },
     {
       name: "Monse's Pupuseria",
@@ -214,7 +228,7 @@ export default function VeganFriendly() {
       cityZip: "Colorado Springs, CO 80903",
       phoneNumber: "(719) 425-5912",
       phoneLink: "tel:7194255912",
-      menu: "https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63ed72b0b79cfa0e18d998e5/1676505776963/The+Well_Vertical+Menus_Sivar_V3.pdf",
+      menu: "https://www.toasttab.com/sivar/v3",
     },
     {
       name: "Slice 420 (East)",
@@ -231,6 +245,22 @@ export default function VeganFriendly() {
       phoneNumber: "(719) 368-6977",
       phoneLink: "tel:7193686977",
       menu: "https://www.slice420.com/menu",
+    },
+    {
+      name: "Stir Coffee & Cocktails (North)",
+      street: "2330 N Wahsatch Ave",
+      cityZip: "Colorado Springs, CO 80907",
+      phoneNumber: "(719) 418-6188",
+      phoneLink: "tel:7194186188",
+      menu: "https://www.stircoffeeandcocktails.com/stir-north-menu",
+    },
+    {
+      name: "Stir Coffee & Cocktails (Downtown)",
+      street: "101 N Tejon St Ste 102",
+      cityZip: "Colorado Springs, CO 80903",
+      phoneNumber: "(719) 471-4117",
+      phoneLink: "tel:7194714117",
+      menu: "https://www.stircoffeeandcocktails.com/stir-downtown-menu",
     },
     {
       name: "Thai Mint Restaurant",
@@ -252,7 +282,7 @@ export default function VeganFriendly() {
       name: "Tossed @ The Well",
       street: "315 E Pikes Peak Ave Suite 100",
       cityZip: "Colorado Springs, CO 80903",
-      menu: "https://static1.squarespace.com/static/63e0f0ff0f77977521804d89/t/63e103940ed01046f9ecf607/1675690912326/The+Well_Vertical+Menus_Tossed_V1.pdf",
+      menu: "https://www.toasttab.com/the-well-tossed/v3/",
     },
     {
       name: "Trinity Brewing",
@@ -277,6 +307,14 @@ export default function VeganFriendly() {
       phoneNumber: "(719) 634-0003",
       phoneLink: "tel:7196340003",
       menu: "https://theuterestaurant.com/food-menu/",
+    },
+    {
+      name: "Uchenna Ethiopian Restaurant",
+      street: "2501 W Colorado Ave # 105",
+      cityZip: "Colorado Springs, CO 80904",
+      phoneNumber: "(719) 634-5070",
+      phoneLink: "tel:7196345070",
+      menu: "https://uchennaalive.com/ethiopian-menu/",
     },
     {
       name: "Westside Cantina",
