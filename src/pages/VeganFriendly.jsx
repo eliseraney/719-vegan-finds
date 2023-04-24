@@ -143,6 +143,20 @@ export default function VeganFriendly() {
       menu: "https://www.laaustacoshop.com/menu",
     },
     {
+      name: "Lori Lynn's Cookies & Cream",
+      phoneNumber: "(719) 600-1533",
+      phoneLink: "tel:7196001533",
+      menu: "https://www.lorilynns.com/menu",
+    },
+    {
+      name: "Lori Lynn's Bakery",
+      street: "3312 Austin Bluffs Parkway",
+      cityZip: "Colorado Springs, CO 80918",
+      phoneNumber: "(719) 600-1533",
+      phoneLink: "tel:7196001533",
+      menu: "https://lori-lynns-cookies-and-cream.square.site/",
+    },
+    {
       name: "Monse's Pupuseria",
       street: "115 S 25th St",
       cityZip: "Colorado Springs, CO 80904",

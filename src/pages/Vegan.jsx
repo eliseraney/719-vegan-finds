@@ -55,6 +55,11 @@ export default function Vegan() {
       menu: "http://www.plantedcakery.com/menu",
     },
     {
+      name: "Runaway Bakeshop",
+      street: "Events & Special Orders Only",
+      menu: "https://runawaybakeshop.wixsite.com/runaway/what-to-order",
+    },
+    {
       name: "Santana's Vegan Grill",
       street: "3220 Austin Bluffs Pkwy",
       cityZip: "Colorado Springs, CO 80918",
