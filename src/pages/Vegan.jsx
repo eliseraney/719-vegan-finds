@@ -35,10 +35,16 @@ export default function Vegan() {
     },
     {
       name: "Green Machine Grill",
-      street: "Events Only",
+      street: "Grab & Go at Bread & Butter / Events Only",
       phoneNumber: "(719) 649-3091",
       phoneLink: "tel:7196493091",
       menu: "https://www.greenmachinegrill.com/menu",
+    },
+    {
+      name: "The Joint",
+      street: "19 N Tejon St",
+      cityZip: "Colorado Springs, CO 80903",
+      menu: "https://www.thejointveganstreetfood.com",
     },
     {
       name: "Noice Foods",
@@ -74,11 +80,6 @@ export default function Vegan() {
       phoneNumber: "(719) 358-7659",
       phoneLink: "tel:7193587659",
       menu: "https://www.sweetelizabethsorganics.com/bakery-cafe",
-    },
-    {
-      name: "The Wayward Onion",
-      street: "Pickup, Catering, & Events Only",
-      menu: "https://www.thewaywardonion.com/",
     },
     {
       name: "Wildflour Bakehouse",
